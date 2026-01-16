@@ -109,7 +109,7 @@ namespace CutTheRope.GameMain
                 Img.MenuProcessingHd, Img.MenuScrollbarChangename, Img.MenuButtonAchivCup,
                 Img.MenuBgrShadow, Img.MenuButtonShort, Img.HudButtons, Img.ObjCandy01New,
                 Img.ObjCandyFx, Img.ObjSpider, Img.ConfettiParticles, Img.MenuPause, Img.MenuResult,
-                Img.HudButtonsEn, Img.MenuResultEn, Img.ObjStarDisappear,
+                Img.HudButtonsEn, Img.HudButtonsEs, Img.MenuResultEn, Img.ObjStarDisappear,
                 Img.ObjBubbleFlight, Img.ObjBubblePop, Img.ObjHookAuto,
                 Img.ObjBubbleAttached, Img.ObjHook01, Img.ObjHook02, Img.ObjStarIdle,
                 Img.HudStar, Img.CharAnimations, Img.ObjHookRegulated, Img.ObjHookMovable,
@@ -129,7 +129,7 @@ namespace CutTheRope.GameMain
                 Img.Bgr07Cover, Img.Bgr08Cover, Img.Bgr09Cover, Img.Bgr10Cover,
                 Img.Bgr11Cover, Img.MenuExtraButtonsFr, Img.MenuExtraButtonsGr,
                 Img.MenuExtraButtonsRu, Img.HudButtonsRu, Img.HudButtonsGr,
-                Img.MenuResultRu, Img.MenuResultFr, Img.MenuResultGr,
+                Img.MenuResultRu, Img.MenuResultFr, Img.MenuResultEs, Img.MenuResultGr,
                 Img.MenuExtraButtonsEn, Img.Bgr12Cover, Img.Bgr12P1, Img.Bgr12P2,
                 Img.ObjGhost, Img.Bgr13Cover, Img.Bgr13P1, Img.ObjPipe, Img.XmasLights,
                 Img.Snowflakes, Img.CharGreetingXmas, Img.ObjSock,
@@ -228,6 +228,7 @@ namespace CutTheRope.GameMain
             public const string MenuPause = "menu_pause";
             public const string MenuResult = "menu_result";
             public const string HudButtonsEn = "hud_buttons_en";
+            public const string HudButtonsEs = "hud_buttons_es";
             public const string MenuResultEn = "menu_result_en";
             public const string ObjStarDisappear = "obj_star_disappear";
             public const string ObjBubbleFlight = "obj_bubble_flight";
@@ -302,6 +303,7 @@ namespace CutTheRope.GameMain
             public const string HudButtonsGr = "hud_buttons_gr";
             public const string MenuResultRu = "menu_result_ru";
             public const string MenuResultFr = "menu_result_fr";
+            public const string MenuResultEs = "menu_result_es";
             public const string MenuResultGr = "menu_result_gr";
             public const string MenuExtraButtonsEn = "menu_extra_buttons_en";
             public const string Bgr12Cover = "bgr_12_cover";

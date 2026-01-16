@@ -14,7 +14,8 @@ namespace CutTheRope.Framework
             "en", // English
             "ru", // Russian
             "de", // German
-            "fr" // French
+            "fr", // French
+            "es" // Spanish
         ];
 
         /// <summary>
@@ -118,6 +119,7 @@ namespace CutTheRope.Framework
                 Language.LANGFR => "fr",
                 Language.LANGZH => "zh",
                 Language.LANGJA => "ja",
+                Language.LANGES => "es",
                 _ => "en",
             };
         }
@@ -135,6 +137,7 @@ namespace CutTheRope.Framework
                 "fr" => Language.LANGFR,
                 "zh" => Language.LANGZH,
                 "ja" => Language.LANGJA,
+                "es" => Language.LANGES,
                 _ => Language.LANGEN,
             };
         }

@@ -1194,6 +1194,10 @@ namespace CutTheRope.GameMain
 
         internal const int IMG_HUD_BUTTONS_GR_menu_touch = 1;
 
+        internal const int IMG_HUD_BUTTONS_ES_menu = 0;
+
+        internal const int IMG_HUD_BUTTONS_ES_menu_touch = 1;
+
         internal const int IMG_MENU_RESULT_RU_stamp_ru = 0;
 
         internal const int IMG_MENU_RESULT_FR_stamp = 0;

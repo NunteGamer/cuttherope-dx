@@ -243,6 +243,14 @@
       <preCutHeight>122</preCutHeight>
     </info>
   </resource>
+  <resource name="hud_buttons_es">
+    <info format="0" fileFormat="0" filter="1">
+      <quads>0,0,203,99,0,99,203,99,</quads>
+      <offsets>2347,9,2347,9,</offsets>
+      <preCutWidth>2560</preCutWidth>
+      <preCutHeight>122</preCutHeight>
+    </info>
+  </resource>
   <resource name="menu_result_en">
     <info format="0" fileFormat="0" filter="1">
       <quads>0,0,239,239,</quads>
@@ -871,6 +879,14 @@
     <info format="0" fileFormat="0" filter="1">
       <quads>0,0,228,228,</quads>
       <offsets>816,349,</offsets>
+      <preCutWidth>2028</preCutWidth>
+      <preCutHeight>1597</preCutHeight>
+    </info>
+  </resource>
+  <resource name="menu_result_es">
+    <info format="0" fileFormat="0" filter="1">
+      <quads>0,0,239,239,</quads>
+      <offsets>811,344,</offsets>
       <preCutWidth>2028</preCutWidth>
       <preCutHeight>1597</preCutHeight>
     </info>

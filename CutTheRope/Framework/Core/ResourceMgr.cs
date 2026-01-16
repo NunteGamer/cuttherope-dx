@@ -147,7 +147,8 @@ namespace CutTheRope.Framework.Core
                 Language.LANGEN,
                 Language.LANGDE,
                 Language.LANGFR,
-                Language.LANGRU
+                Language.LANGRU,
+                Language.LANGES
             );
 
             if (preferOldFontSystem && isLanguageSupported)
