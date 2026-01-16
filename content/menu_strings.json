@@ -312,28 +312,28 @@
         "ru": "Картонная",
         "fr": "Carton",
         "de": "Pappkiste",
-        "es": "Caja de cartón"
+        "es": "Caja de Cartón"
     },
     "BOX2_LABEL": {
         "en": "Fabric Box",
         "ru": "Тканевая",
         "fr": "Tissu",
         "de": "Stoffkiste",
-        "es": "Caja de tela"
+        "es": "Caja de Tela"
     },
     "BOX3_LABEL": {
         "en": "Foil Box",
         "ru": "Из фольги",
         "fr": "Papier",
         "de": "Folienkiste",
-        "es": "Caja de metal"
+        "es": "Caja de Metal"
     },
     "BOX4_LABEL": {
         "en": "Magic Box",
         "ru": "Волшебная",
         "fr": "Magique",
         "de": "Magiekiste",
-        "es": "Caja mágica"
+        "es": "Caja Mágica"
     },
     "BOX5_LABEL": {
         "en": "Valentine Box",
@@ -347,35 +347,35 @@
         "ru": "Игрушечная",
         "fr": "Jouets",
         "de": "Spielzeugkiste",
-        "es": "Caja de juguete"
+        "es": "Caja de Juguete"
     },
     "BOX7_LABEL": {
         "en": "Gift Box",
         "ru": "Подарочная",
         "fr": "Cadeau",
         "de": "Geschenkkiste",
-        "es": "Caja de regalo"
+        "es": "Caja de Regalo"
     },
     "BOX8_LABEL": {
         "en": "Cosmic Box",
         "ru": "Космическая",
         "fr": "Cosmique",
         "de": "Kosmoskiste",
-        "es": "Caja cósmica"
+        "es": "Caja Cósmica"
     },
     "BOX9_LABEL": {
         "en": "Toolbox",
         "ru": "Инструменты",
         "fr": "Outils",
         "de": "Werkzeugkiste",
-        "es": "Caja de herramientas"
+        "es": "Caja de Herramientas"
     },
     "BOX10_LABEL": {
         "en": "Buzz Box",
         "ru": "Медовая",
         "fr": "Abeille",
         "de": "Summkiste",
-        "es": "Caja de colmena"
+        "es": "Caja de Colmena"
     },
     "BOX11_LABEL": {
         "en": "DJ Box",
@@ -392,7 +392,7 @@
         "ko": "유령 상자",
         "zh": "幽灵盒",
         "ja": "オバケの箱",
-        "es": "Espectro",
+        "es": "Caja Espectral",
         "it": "Spettrale",
         "nl": "Spookachtig",
         "br": "Fantasma"
@@ -405,7 +405,7 @@
         "ko": "증기 상자",
         "zh": "蒸汽盒",
         "ja": "スチームの箱",
-        "es": "Caja de vapor",
+        "es": "Caja de Vapor",
         "it": "Vapore",
         "nl": "Stoomkast",
         "br": "Vaporeira"
@@ -418,7 +418,7 @@
         "ko": "랜턴 상자",
         "zh": "灯笼盒",
         "ja": "ちょうちんの箱",
-        "es": "caja de linternas",
+        "es": "Caja de Linternas",
         "it": "scatola delle lanterne",
         "nl": "Lampionnendoos",
         "br": "Caixa de Lanternas",
@@ -429,7 +429,7 @@
         "ru": "Новые уровни на подходе!",
         "fr": "Nouveaux niveaux bientôt disponibles !",
         "de": "Bald gibt es neue Levels!",
-        "es": "Nuevos niveles próximamente"
+        "es": "¡Nuevos niveles próximamente!"
     },
     "ABOUT_TEXT": {
         "en": "Cut the Rope: DX ver. %@\n\nA fan-made enhancement of the PC version of Cut the Rope.\n\nhttps://github.com/yell0wsuit/cuttherope-dx\n\nOriginally developed and published by ZeptoLab. Copyright 2012 by ZeptoLab.\n\nAdditional Design:\nNataliya Omelyanchuk\n\nMusic and Sounds:\nAlexander Falinski",
@@ -931,121 +931,141 @@
         "en": "Complete the Toy Box",
         "ru": "Завершите Игрушечную коробку",
         "de": "Schließe Spielzeugkiste ab",
-        "fr": "Terminer la boîte Jouets"
+        "fr": "Terminer la boîte Jouets",
+        "es": "Completa la Caja de Juguete"
     },
     "AC_GIFT_BOX_DESCR": {
         "en": "Complete the Gift Box",
         "ru": "Завершите Подарочную коробку",
         "de": "Schließe Geschenkkiste ab",
-        "fr": "Terminer la boîte Cadeau"
+        "fr": "Terminer la boîte Cadeau",
+        "es": "Completa la Caja de Regalo"
     },
     "AC_COSMIC_BOX_DESCR": {
         "en": "Complete the Cosmic Box",
         "ru": "Завершите Космическую коробку",
         "de": "Schließe Kosmoskiste ab",
-        "fr": "Terminer la boîte Cosmique"
+        "fr": "Terminer la boîte Cosmique",
+        "es": "Completa la Caja Cósmica"
     },
     "AC_TOOLBOX_DESCR": {
         "en": "Complete the Toolbox",
         "ru": "Завершите коробку Инструменты",
         "de": "Schließe Werkzeugkiste ab",
-        "fr": "Terminer la boîte Outils"
+        "fr": "Terminer la boîte Outils",
+        "es": "Completa la Caja de Herramientas"
     },
     "AC_BUZZ_BOX_DESCR": {
         "en": "Complete the Buzz Box",
         "ru": "Завершите Медовую коробку",
         "de": "Schließe Summkiste ab",
-        "fr": "Terminer la boîte Abeille"
+        "fr": "Terminer la boîte Abeille",
+        "es": "Completa la Caja de Colmena"
     },
     "AC_DJ_BOX_DESCR": {
         "en": "Complete the DJ Box",
         "ru": "Завершите DJ коробку",
         "de": "Schließe DJ-Kiste ab",
-        "fr": "Terminer la boîte DJ"
+        "fr": "Terminer la boîte DJ",
+        "es": "Completa la Caja DJ"
     },
     "AC_CARDBOARD_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Cardboard Box",
         "ru": "Получите по три звезды на всех уровнях Картонной коробки",
         "de": "Erhalte in allen Levels von Pappkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Carton"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Carton",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Cartón"
     },
     "AC_FABRIC_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Fabric Box",
         "ru": "Получите по три звезды на всех уровнях Тканевой коробки",
         "de": "Erhalte in allen Levels von Stoffkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Tissu"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Tissu",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Tela"
     },
     "AC_FOIL_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Foil Box",
         "ru": "Получите по три звезды на всех уровнях коробки Из фольги",
         "de": "Erhalte in allen Levels von Folienkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Papier"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Papier",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Metal"
     },
     "AC_MAGIC_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Magic Box",
         "ru": "Получите по три звезды на всех уровнях Волшебной коробки",
         "de": "Erhalte in allen Levels von Magiekiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Magique"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Magique",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja Mágica"
     },
     "AC_VALENTINE_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Valentine Box",
         "ru": "Получите по три звезды на всех уровнях коробки Валентинка",
         "de": "Erhalte in allen Levels von   drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Valentin"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Valentin",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de San Valentín"
     },
     "AC_TOY_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Toy Box",
         "ru": "Получите по три звезды на всех уровнях Игрушечной коробки",
         "de": "Erhalte in allen Levels von Spielzeugkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Jouets"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Jouets",
+        "es":  "Consigue tres estrellas en todos los niveles de la Caja de Juguetes"
     },
     "AC_GIFT_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Gift Box",
         "ru": "Получите по три звезды на всех уровнях Подарочной коробки",
         "de": "Erhalte in allen Levels von Geschenkkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Cadeau"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Cadeau",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Regalo"
     },
     "AC_COSMIC_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Cosmic Box",
         "ru": "Получите по три звезды на всех уровнях Космической коробки",
         "de": "Erhalte in allen Levels von Kosmoskiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Cosmique"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Cosmique",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja Cósmica"
     },
     "AC_TOOLBOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Toolbox",
         "ru": "Получите по три звезды на всех уровнях коробки Инструменты",
         "de": "Erhalte in allen Levels von Werkzeugkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Outils"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Outils",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Herramientas"
     },
     "AC_BUZZ_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of Buzz Box",
         "ru": "Получите по три звезды на всех уровнях Медовой коробки",
         "de": "Erhalte in allen Levels von Summkiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Abeille"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte Abeille",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja de Colmena"
     },
     "AC_DJ_BOX_PERFECT_DESCR": {
         "en": "Get three stars in all levels of DJ Box",
         "ru": "Получите по три звезды на всех уровнях DJ коробки",
         "de": "Erhalte in allen Levels von DJ-Kiste drei Sterne",
-        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte DJ"
+        "fr": "Récupérer les trois étoiles dans chaque niveau de la boîte DJ",
+        "es": "Consigue tres estrellas en todos los niveles de la Caja DJ"
     },
     "ACHIEVEMENT_UNLOCKED": {
         "en": "Achievement unlocked!",
         "ru": "Новое достижение!",
         "de": "Erfolg freigeschaltet!",
-        "fr": "Succès débloqué !"
+        "fr": "Succès débloqué !",
+        "es": "¡Logro desbloqueado!"
     },
     "QUIT": {
         "en": "Are you sure you want to quit?",
         "ru": "Вы действительно хотите выйти из игры?",
         "fr": "Veux-tu vraiment quitter ?",
-        "de": "Bist du sicher, dass du beenden willst?"
+        "de": "Bist du sicher, dass du beenden willst?",
+        "es": "¿Estás seguro de que quieres salir?" 
     },
     "QUIT_BUTTON": {
         "en": "Quit",
         "ru": "Выход",
         "fr": "Quitter",
-        "de": "Beenden"
+        "de": "Beenden",
+        "es": "Salir"
     },
     "FACEBOOK_BUTTON": {
         "en": ""
